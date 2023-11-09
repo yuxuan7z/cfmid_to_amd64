@@ -1,4 +1,4 @@
-## Always download the newest version of notebooks on this Github Page. If you have any question, please contact Data Science team (Hugo, Houda, Yuxuan)
+### Always download the newest version of notebooks on this Github Page. If you have any question, please contact Data Science team (Hugo, Houda, Yuxuan)
 
 ***
 Step 1: Create 3 folders in the folder where you stored notebooks which are:
@@ -6,6 +6,7 @@ Step 1: Create 3 folders in the folder where you stored notebooks which are:
     * out
     * QQplots
 ![image_1](https://psbincca-my.sharepoint.com/:i:/g/personal/yzhang_psbinc_ca/EZJtkg0TMY5Hr-bIdFZc32EB-toqSSv-akLFXU65G6nWuw?e=1ht3eb)
+![image_readme_1](https://github.com/yuxuan7z/cfmid_to_amd64/assets/116115037/8b20d5e7-dfe6-468e-aafd-7788ddb060f3)
 
 Step 2: Create 2 folders in the ‘data’ folder which are:
     * norm
