@@ -2,9 +2,9 @@
 
 ***
 __Step 1__: Create 3 folders in the folder where you stored notebooks which are:
-- 1. data
-- 2. out
-- 3. QQplots
+- i. data
+- ii. out
+- iii. QQplots
 ![image_1](https://psbincca-my.sharepoint.com/:i:/g/personal/yzhang_psbinc_ca/EZJtkg0TMY5Hr-bIdFZc32EB-toqSSv-akLFXU65G6nWuw?e=1ht3eb)
 
 __Step 2__: Create 2 folders in the ‘data’ folder which are:
