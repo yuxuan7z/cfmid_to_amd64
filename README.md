@@ -1,6 +1,7 @@
 ### Always download the newest version of notebooks on this Github Page. If you have any question, please contact Data Science team (Houda, Hugo and Yuxuan)
 
 ***
+### Following the next 5 steps to create folders and organize your data files before you start to run notebooks.
 __Step 1__: Create 3 folders in the folder where you stored notebooks which are:
 - data
 - out
