@@ -8,8 +8,8 @@ __Step 1__: Create 3 folders in the folder where you stored notebooks which are:
 ![image_1](https://psbincca-my.sharepoint.com/:i:/g/personal/yzhang_psbinc_ca/EZJtkg0TMY5Hr-bIdFZc32EB-toqSSv-akLFXU65G6nWuw?e=1ht3eb)
 
 __Step 2__: Create 2 folders in the ‘data’ folder which are:
-- 1. norm
-- 2. tonorm
+  - 1. norm
+  - 2. tonorm
 !(https://psbincca-my.sharepoint.com/:i:/g/personal/yzhang_psbinc_ca/EahPTcCVd2xHtEHcpf028e8Bu2dZjKBtLwHMTqMgOTf1oA?e=s8HXAj)
 
 __Step 3__ (optional, if you need to run pathway_count notebook): Create 1 folder in ‘out’ folder which is:
