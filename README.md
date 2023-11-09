@@ -7,7 +7,9 @@ __Step 1__: Create 3 folders in the folder where you stored notebooks which are:
 - data
 - out
 - QQplots
-![image_1](https://psbincca-my.sharepoint.com/:i:/g/personal/yzhang_psbinc_ca/EZJtkg0TMY5Hr-bIdFZc32EB-toqSSv-akLFXU65G6nWuw?e=1ht3eb)
+
+![image_readme_1](https://github.com/yuxuan7z/cfmid_to_amd64/assets/116115037/76e406ae-6320-4849-973b-c92114cd0fae)
+
 
 __Step 2__: Create 2 folders in the ‘data’ folder which are:
 - norm
